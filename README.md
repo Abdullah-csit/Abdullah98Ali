@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abdullah98Ali
 - 👀 I’m interested in ... Development
 - 🌱 I’m currently learning ... Mobile Development
-- 💞️ I’m looking to collaborate on ... Android
+- 🧐 I’m looking to collaborate on ... Android
 - 📫 How to reach me ... Not yet XD
 
 <!---
